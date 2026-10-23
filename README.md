@@ -1,4 +1,4 @@
-# 🛒 Retail Sales SQL Analysis Project
+# 🛒 Retail Sales Analysis using MySQL 
 
 > A hands-on SQL project exploring a real-world retail dataset — uncovering revenue trends, customer behavior, product performance, and more using MySQL.
 
@@ -509,7 +509,7 @@ SELECT * FROM shipping_sales_summary ORDER BY total_sales DESC;
 ## 📁 Project Structure
 
 ```
-Retail-Sales-SQL-Project/
+Retail_Sales_Analysis_SQL/
 │
 ├── retail_sales_analysis.sql   ← All SQL queries used in this project
 └── README.md                   ← You are reading it!
