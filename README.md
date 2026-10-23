@@ -1,4 +1,4 @@
-# 🛒 Retail Sales Analysis using MySQL 
+# 🛒 Retail Sales & Customer Analytics using MySQL 
 
 > A hands-on SQL project exploring a real-world retail dataset — uncovering revenue trends, customer behavior, product performance, and more using MySQL.
 
